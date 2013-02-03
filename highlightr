@@ -127,6 +127,7 @@ default_css = {
     '.definition': '{color: darkorange; font-weight:bold;}',
     '.defname': '{color: blue;}',
     '.operator': '{color: brown;}',
+    '::selection': '{background-color: rgba(65,131,196,0.4);}',
 }
 
 default_html = '''\
